@@ -242,4 +242,8 @@ border-bottom: none;
 }
 .pad {
     padding-bottom: 9px;
+    font-style: normal;
+    width: 1170px;
+    justify-content: space-between;
+    margin: 0 auto;
 }
